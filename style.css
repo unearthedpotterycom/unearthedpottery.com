@@ -1,0 +1,51 @@
+body, td {
+	font-family: Trebuchet MS, verdana, arial;
+	font-size: 14pt;
+	color: #000000;
+
+	margin: 0px 0px 0px 0px;
+}
+ 
+a {
+	color: #333333;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+font.navCurrent {
+	color: #dd9999;
+	font-size: 12pt;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a.nav {
+	color: #ffffff;
+	font-size: 12pt;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a.nav:hover {
+	color: #dd9999;
+	text-decoration: none;
+}
+
+p.footer {
+	clear: both;
+	margin: 0.5cm 20px 0.5cm 20px;
+	padding: 0.5cm 1.0cm 0.5cm 1.0cm;
+	background: #ffffff;
+}
+
+font.title {
+	color: #ffffff;
+	font-size: 28pt;
+	font-weight: bold;
+	margin-left: 1.5cm;
+	text-shadow: 3px 3px #222222;
+}
